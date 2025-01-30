@@ -4,4 +4,4 @@ Official GitHub organization for [TeleBridge](https://github.com/TeleBridge/Tele
 
 ## Brought to you by
 
-[Antogamer](https://antogamer.it)
+[Anto](https://antogamer.it)
